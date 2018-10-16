@@ -9,3 +9,7 @@ This is a bug where webstorm 2018.2.4 is unable to correctly display the inferre
 4. Direct webstorm to use the flow-bin in node_modules:
 ![prefs](src/images/prefs.png)
 5. Take a look at [src/index.js](src/index.js) for further bug details.
+
+## WebStorm version this bug occurs on:
+
+![version](src/images/version.png)
