@@ -1,0 +1,10 @@
+{
+  "name": "webstorm-flow-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Taylor Goolsby <taylorgoolsby@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "flow-bin": "^0.83.0"
+  }
+}
